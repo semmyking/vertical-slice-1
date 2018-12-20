@@ -19,7 +19,7 @@ public class SpikeMovement : MonoBehaviour
     private void Start()
     {
         // Points where the object is moving between
-        // - Don't forget to change the positions to the positions you need -
+        // - Don't forget to change the points to the positions you need -
         pointA = new Vector3(187.51f, 36.16f, 244.3f);
         pointB = new Vector3(187.51f, 31.03f, 244.3f);
 
